@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Liftsimulator</string>
+    <string name="floor">Etage : </string>
+</resources>
